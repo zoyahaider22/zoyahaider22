@@ -3,6 +3,7 @@
 # 👩‍💻 Zoya Haider
 
 🎓 **M.Tech in Data Science | Jamia Hamdard University, New Delhi**
+
 📌 **AI/ML Enthusiast | Deep Learning Learner | Python Programmer**
 
 Welcome to my GitHub profile!
